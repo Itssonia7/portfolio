@@ -1,3 +1,4 @@
+```markdown
 # Neon-Tech Responsive Portfolio 🚀
 
 Welcome to my personal portfolio repository! This is a clean, responsive, and performance-optimized single-page web application built to showcase my academic path, technical skill sets, and core engineering projects.
@@ -53,3 +54,34 @@ To run this portfolio locally on your machine, follow these simple steps:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Itssonia7/portfolio.git](https://github.com/Itssonia7/portfolio.git)
+
+```
+
+2. **Navigate into the project root directory:**
+```bash
+cd portfolio
+
+```
+
+
+3. **Install dependencies (if building/compiling Tailwind locally):**
+```bash
+npm install
+
+```
+
+
+4. **Launch the application:**
+Open the `index.html` file directly in any modern browser, or launch it via the VS Code **Live Server** extension for real-time changes.
+
+---
+
+## 📬 Let's Connect!
+
+* 💼 **LinkedIn:** [Sonia Nanwani](https://www.linkedin.com/in/sonia-nanwani-8a8724329)
+* 🐙 **GitHub:** [@Itssonia7](https://github.com/Itssonia7)
+* 📧 **Email:** soniananvani7@gmail.com
+
+```
+
+```
